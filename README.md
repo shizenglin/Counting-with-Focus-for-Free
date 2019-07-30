@@ -28,9 +28,9 @@ You can find these map generation codes in folder ¨data¨
 <h2> Training </h2>
 <br> 1. Prepare your data according to data preprocessing step.
 <br> 2. Set the experiment settings in ¨code/tr_param.ini¨ in which phase = train, and set other parameters accordingly (refer to our paper).
-<br> 3. run ¨python code/main.py¨
+<br> 3. Run ¨python code/main.py¨
 
 <h2> Testing </h2>
 <br> 1. Prepare your data according to data preprocessing step.
 <br> 2. Set the experiment settings in ¨code/tr_param.ini¨ in which phase = test, and set other parameters accordingly (refer to our paper).
-<br> 3. run ¨python code/main.py¨
+<br> 3. Run ¨python code/main.py¨
