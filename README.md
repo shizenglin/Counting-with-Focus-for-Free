@@ -1,7 +1,7 @@
 # Counting-with-Focus-for-Free
 Code for Counting with Focus for Free, ICCV, 2019
 
-<br> Running Environment 
-<br> <Data preprocessing>
-<br> <Training>
-<br> <Testing>
+<h2> Running Environment </h2>
+<br> Data preprocessing
+<br> Training
+<br> Testing
