@@ -9,7 +9,12 @@ Code for Counting with Focus for Free, ICCV, 2019
 <br> 5. Tensorflow 1.04 or or higher
 
 <h2> Data preprocessing </h2>
-<h4> Dataset </h4>
+<h3> Dataset </h3>
+1. ShanghaiTech
+2. TRANCOS
+3. Dublin Cell Counting
+4. WIDER FACE
+5. UCF-QNRF
 
 <h2> Training </h2>
 <h2> Testing </h2>
