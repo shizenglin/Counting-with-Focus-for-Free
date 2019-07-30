@@ -9,7 +9,7 @@ Code for Counting with Focus for Free, ICCV, 2019
 <br> 5. Tensorflow 1.04 or or higher
 
 <h2> Data preprocessing </h2>
-<h3> Dataset </h3>
+<h3> Datasets </h3>
 <br> 1. ShanghaiTech
 <br> 2. TRANCOS
 <br> 3. Dublin Cell Counting
@@ -22,7 +22,8 @@ Bsed on equation(2), we use the same sigma as density map generation
 <h3> Global density generation </h3>
 Bsed on equation(4) and (5), we use M=8 density levels for ShanghaiTech Part_A and UCF-QNRF, and 4 for the other datasets.
 
-<br> You can find these map generation codes in folder ¨data¨
+<h3> Code </h3>
+You can find these map generation codes in folder ¨data¨
 
 <h2> Training </h2>
 <h2> Testing </h2>
