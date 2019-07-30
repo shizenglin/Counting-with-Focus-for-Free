@@ -1,5 +1,5 @@
 # Counting-with-Focus-for-Free
-Code for Counting with Focus for Free, ICCV, 2019
+<b>Code for ¨Zenglin Shi, Pascal Mettes, and Cees G. M. Snoek. Counting with Focus for Free, ICCV, 2019¨.</b>
 
 <h2> Code environments </h2>
 <br> 1. Ubantu 16.0 or higher
