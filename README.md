@@ -10,11 +10,11 @@ Code for Counting with Focus for Free, ICCV, 2019
 
 <h2> Data preprocessing </h2>
 <h3> Dataset </h3>
-1. ShanghaiTech
-2. TRANCOS
-3. Dublin Cell Counting
-4. WIDER FACE
-5. UCF-QNRF
+<br> 1. ShanghaiTech
+<br> 2. TRANCOS
+<br> 3. Dublin Cell Counting
+<br> 4. WIDER FACE
+<br> 5. UCF-QNRF
 
 <h2> Training </h2>
 <h2> Testing </h2>
