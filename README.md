@@ -1,6 +1,6 @@
 # Counting-with-Focus-for-Free
 <b>Zenglin Shi, Pascal Mettes, and Cees G. M. Snoek. Counting with Focus for Free, ICCV, 2019.</b>
-&nbsp；&nbsp；&nbsp；&nbsp；![image](https://github.com/shizenglin/Counting-with-Focus-for-Free/blob/master/image/overview.png)
+&nbsp；&nbsp；![image](https://github.com/shizenglin/Counting-with-Focus-for-Free/blob/master/image/overview.png)
 <p> &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 Overview of our approach </p>
 
 <h2> Code environments </h2>
