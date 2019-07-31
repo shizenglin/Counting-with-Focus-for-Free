@@ -10,7 +10,7 @@
 <p> &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 Overview of our approach </p>
 
 <h2> Code environments </h2>
-     * Ubantu 16.0 or higher
+     *    Ubantu 16.0 or higher
 <br> * CUDA 8.0 and Cudnn 7.5 or higher
 <br> * GPU memory 10GB or higher
 <br> * Python 2.7
