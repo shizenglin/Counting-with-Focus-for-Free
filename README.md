@@ -31,3 +31,9 @@ Bsed on equation(4) and (5), we use M=8 density levels for ShanghaiTech Part_A a
      1. Prepare your data according to data preprocessing step.
 <br> 2. Set the experiment settings in ¨code/tr_param.ini¨ in which phase = test, and set other parameters accordingly (refer to our paper).
 <br> 3. Run ¨python code/main.py¨
+
+<h2> Tips </h2>
+     1. The dataload function in this code is a little bit slow, you can impove it by using Dataset API in TF.
+<br> 2. Please generate your groundtruth map following ¨Data preprocessing¨ step if you want to reproduce our reported numbers in Table 6.
+<br> 3. You may get different results for each running because some random functions are used even with the same random seeds.
+<br> 4. Please report your questions in Issues, we can deal with them together.
