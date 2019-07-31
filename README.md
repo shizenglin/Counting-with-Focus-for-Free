@@ -1,5 +1,5 @@
 # Counting-with-Focus-for-Free
-<b>&#12288 &#12288 &#12288 Zenglin Shi, Pascal Mettes, and Cees G. M. Snoek. Counting with Focus for Free, ICCV, 2019.</b>
+<b>&nbsp; Zenglin Shi, Pascal Mettes, and Cees G. M. Snoek. Counting with Focus for Free, ICCV, 2019.</b>
  <img src="./image/overview.png" text-align:center />
 <p> &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 Overview of our approach </p>
 
