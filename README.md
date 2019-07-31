@@ -1,5 +1,10 @@
 # Counting-with-Focus-for-Free
 <b>Code for ¨Zenglin Shi, Pascal Mettes, and Cees G. M. Snoek. Counting with Focus for Free, ICCV, 2019¨.</b>
+<div style="text-align: center; width: 500px;height:200px; display: table;border: green solid 1px;">
+   <span style="display: table-cell; vertical-align: middle; ">
+       <img alt="" src="./image/overview.png" style="display: inline-block;" />
+   </span>
+</div>
 <div style="text-align: center; width: 500px; border: green solid 1px;">
 <img src="./image/overview.png" style="margin: 0 auto;" />
 <p> Overview of our approach </p>
