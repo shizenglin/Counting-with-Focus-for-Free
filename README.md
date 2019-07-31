@@ -1,7 +1,9 @@
 # Counting-with-Focus-for-Free
 <b>Code for ¨Zenglin Shi, Pascal Mettes, and Cees G. M. Snoek. Counting with Focus for Free, ICCV, 2019¨.</b>
 
-<img src="./image/overview.png"  alt="Overview of our approach" style="float:right"/>
+<img src="./image/overview.png" />
+
+<p> Overview of our approach </p>
 
 <h2> Code environments </h2>
      1. Ubantu 16.0 or higher
