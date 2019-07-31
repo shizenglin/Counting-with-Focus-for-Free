@@ -2,7 +2,7 @@
 <b>Zenglin Shi, Pascal Mettes, and Cees G. M. Snoek. Counting with Focus for Free, ICCV, 2019.</b>
 <table>
      <tr>
-          <td><img src="./image/overview.png" text-align:center /></td>
+          <td></td>
           <td><img src="./image/overview.png" text-align:center /></td>
      </tr>
 </table>
