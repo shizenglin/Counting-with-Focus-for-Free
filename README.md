@@ -3,6 +3,7 @@
 <table>
      <tr>
           <td><img src="./image/overview.png" text-align:center /></td>
+          <td><img src="./image/overview.png" text-align:center /></td>
      </tr>
 </table>
 <p> &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 Overview of our approach </p>
