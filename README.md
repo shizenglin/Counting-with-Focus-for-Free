@@ -12,7 +12,7 @@
 
 <h2> Data preprocessing </h2>
 <h3> Datasets </h3>
-     1. ShanghaiTech
+     1. ShanghaiTech partA and partB
 <br> 2. TRANCOS
 <br> 3. Dublin Cell Counting
 <br> 4. WIDER FACE
