@@ -3,7 +3,7 @@
 ![image](https://github.com/shizenglin/Counting-with-Focus-for-Free/blob/master/image/overview.png)
 <p> &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 Overview of our approach </p>
 
-<h2> Code environments </h2>
+<h2> Requirements </h2>
      1. Ubantu 16.0 or higher
 <br> 2. CUDA 8.0 and Cudnn 7.5 or higher
 <br> 3. GPU memory 10GB or higher
