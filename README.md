@@ -37,4 +37,4 @@ Bsed on equation(4) and (5), we use M=8 density levels for ShanghaiTech Part_A a
      1. The dataload function in this code is a little bit slow, you can impove it by using Dataset API in TF.
 <br> 2. Please generate your groundtruth map following the step of ¨data preprocessing¨ if you want to reproduce our reported numbers in Table 6.
 <br> 3. You may get different results for each run because some random functions are used even with a fixed random seeds.
-<br> 4. Please report your questions in Issues, we can deal with them together.
+<br> 4. Please report your questions in ¨Issues¨, we can deal with them together.
