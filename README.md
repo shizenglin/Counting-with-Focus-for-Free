@@ -4,11 +4,10 @@
 <p> &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 Overview of our approach </p>
 
 <h2> Requirements </h2>
-     1. Ubantu 16.0 or higher
-<br> 2. CUDA 8.0 and Cudnn 7.5 or higher
-<br> 3. GPU memory 10GB or higher
-<br> 4. Python 2.7
-<br> 5. Tensorflow 1.04 or or higher
+     1. CUDA 8.0 and Cudnn 7.5 or higher
+<br> 2. GPU memory 10GB or higher
+<br> 3. Python 2.7
+<br> 4. Tensorflow 1.04 or or higher
 
 <h2> Data preprocessing </h2>
 <h3> Datasets </h3>
