@@ -38,7 +38,7 @@ Bsed on equation(4) and (5), we use M=8 density levels for ShanghaiTech Part_A a
 <br> 2. Please generate your groundtruth map following the step of ¨data preprocessing¨ if you want to reproduce our reported numbers in Table 6.
 <br> 3. You may get different results for each run because some random functions are used even with a fixed random seeds.
 <br> 4. Please report your questions in ¨Issues¨, we can deal with them together.
-<br> 5. You can find more information at [my homepage](https://staff.fnwi.uva.nl/z.shi/).
+<br> 5. You can find more information at [Zenglin Shi, Pascal Mettes, and Cees G. M. Snoek. Counting with Focus for Free, ICCV, 2019](https://arxiv.org/pdf/1903.12206.pdf)[my homepage](https://staff.fnwi.uva.nl/z.shi/).
 <h2> Citation </h2>
 Please cite our paper when you use this code.
 
