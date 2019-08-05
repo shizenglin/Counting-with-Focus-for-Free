@@ -41,12 +41,12 @@ Bsed on equation(4) and (5), we use M=8 density levels for ShanghaiTech Part_A a
 <h2> Citation </h2>
 Please cite our paper when you use this code.
 
-´´´@inproceedings{shi2019counting,
-  title={Counting with Focus for Free},
-  author={Zenglin Shi, Pascal Mettes, and Cees G. M. Snoek},
-  booktitle={ICCV},
-  year={2019}
-}
-´´´
+     @inproceedings{shi2019counting,
+     title={Counting with Focus for Free},
+     author={Zenglin Shi, Pascal Mettes, and Cees G. M. Snoek},
+     booktitle={ICCV},
+     year={2019}
+     }
+
 
 
