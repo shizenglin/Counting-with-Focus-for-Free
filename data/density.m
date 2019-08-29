@@ -9,7 +9,7 @@ if nargin < 3
 end
 image = imread(image_path);
 load(position_head_path);
-position_head = annPoints;
+position_head = annPoints;%annPoints is created by load(position_head_path), whcih varies from different datasets.
 distance_mat = distance(position_head, k);
 density_map = zeros(floor(size(image,1)), floor(size(image,2)));
 avg_var_list = compute_avg_var(image, position_head, distance_mat);
@@ -47,8 +47,8 @@ head_num = size(position_head, 1);
 var_list = zeros(head_num);
 avg_var_list = zeros(head_num);
 
-avg_w = floor(size(image,1)/16.0);
-avg_h = floor(size(image,2)/16.0);
+avg_w = floor(size(image,1)/16.0);%16.0 is the width of local region R in equation 7 of the paper
+avg_h = floor(size(image,2)/16.0);%16.0 is the height of local region R in equation 7 of the paper
 
 for pid = 1:head_num
     var_list(pid) = 0.3 * mean(distance_mat(pid, :));
