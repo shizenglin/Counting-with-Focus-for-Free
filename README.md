@@ -37,8 +37,10 @@ Bsed on equation(4) and (5), we use M=8 density levels for ShanghaiTech Part_A a
      1. The dataload function in this code is a little bit slow, you can impove it by using Dataset API in TF.
 <br> 2. Please generate your groundtruth map following the step of ¨data preprocessing¨ if you want to reproduce our reported numbers in Table 6.
 <br> 3. You may get different results for each run because some random functions are used even with a fixed random seeds.
-<br> 4. If you have any questions, feel free to post them in ¨Issues¨.
-<br> 5. You can find more information at <a href="https://staff.fnwi.uva.nl/z.shi/" target="_blank">my homepage</a>
+<br> 4. Our proposed focus for free is independent to the base network, which means you can use the latest more powerful base network to get better results.
+<br> 5. WIDER FACE is a perfact dataset to support you to claim that your method can deal with multi-scale objects (see details in our paper). The ground truth density map and segmentation are avaliable at [WIDER FACE].
+<br> 6. If you have any questions, feel free to post them in ¨Issues¨.
+<br> 7. You can find more information at <a href="https://staff.fnwi.uva.nl/z.shi/" target="_blank">my homepage</a>
 <h2> Citation </h2>
 Please cite our paper when you use this code.
 
